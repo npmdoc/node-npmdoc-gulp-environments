@@ -54,7 +54,7 @@
 <tspan x="10" y="826">    │   │ ├── pify@2.3.0 </tspan>
 <tspan x="10" y="842">    │   │ └─┬ strip-bom@2.0.0 </tspan>
 <tspan x="10" y="858">    │   │   └── is-utf8@0.2.1 </tspan>
-<tspan x="10" y="874">    │   ├─┬ normalize-package-data@2.3.6 </tspan>
+<tspan x="10" y="874">    │   ├─┬ normalize-package-data@2.3.8 </tspan>
 <tspan x="10" y="890">    │   │ ├── hosted-git-info@2.4.2 </tspan>
 <tspan x="10" y="906">    │   │ ├─┬ is-builtin-module@1.0.0 </tspan>
 <tspan x="10" y="922">    │   │ │ └── builtin-modules@1.1.1 </tspan>
