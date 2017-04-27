@@ -1,6 +1,6 @@
 # npmdoc-gulp-environments
 
-#### api documentation for  [gulp-environments (v0.1.2)](https://github.com/gunpowderlabs/gulp-environments#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-environments.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-environments) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-environments.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-environments)
+#### basic api documentation for  [gulp-environments (v0.1.2)](https://github.com/gunpowderlabs/gulp-environments#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-environments.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-environments) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-environments.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-environments)
 
 #### A library for easily adding environments (development/production) to Gulp
 
@@ -66,7 +66,8 @@
     "scripts": {
         "test": "./node_modules/mocha/bin/mocha ./index.js ./test/*.js"
     },
-    "version": "0.1.2"
+    "version": "0.1.2",
+    "bin": {}
 }
 ```
 
